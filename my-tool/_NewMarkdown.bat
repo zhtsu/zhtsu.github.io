@@ -1,1 +1,0 @@
-copy _markdown-template.md _new-markdown.md
