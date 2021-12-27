@@ -1,13 +1,1 @@
 node_modules
-package.json
-package-lock.json
-my-tool
-docs/about
-docs/archives
-docs/articles
-docs/other
-docs/README.md
-docs/.vuepress/public
-docs/.vuepress/styles
-docs/.vuepress/theme
-docs/.vuepress/config.js

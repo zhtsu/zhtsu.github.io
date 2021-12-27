@@ -1,0 +1,44 @@
+html, body, #app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#app {
+  box-sizing: border-box;
+  border: 6px solid #337ab7;
+  background-color: #fff;
+  color: #272727;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+@font-face {
+  font-family: 'Monoton-Regular';
+  src: url("https://file.zhtsu.cn/Monoton-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url("https://file.zhtsu.cn/Ubuntu-Medium.ttf");
+}
+
+.archives-category-list {
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -o-user-select:none;
+  user-select:none;
+}
+
+.archives-category-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  color: #272727;
+}
+
+.archives-category-title {
+  border-bottom: 1px dotted #ddd;
+  font-size: 2.5vh;
+}
