@@ -1,6 +1,6 @@
 ---
 title: Art
-image: blame.jpg
+image: sanakan.jpg
 
 # Badge style
 style:
