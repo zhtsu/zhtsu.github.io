@@ -1,0 +1,48 @@
+---
+title: ACG 资源分享
+date: 2023-09-12
+tags: 
+    - Resource
+categories:
+    - ACG
+---
+
+>  如何获取下载链接：
+>
+> 1. 关注微信公众号 zhtsucc
+> 2. 回复对应关键字
+> 3. 访问下载链接并获取资源 :)
+
+## Anime
+
+列表中分享的动漫皆为无字幕生肉，高清 1080P，适合视频剪辑使用
+
+|      AnimeName       |    Keyword     |
+| :------------------: | :------------: |
+|       游戏人生       |   ANIME.NGNL   |
+|       宝石之国       |   ANIME.HNK    |
+| 魔龙院光牙最后的战斗 |  ANIME.AMSNT   |
+|  只有我不存在的城市  |  ANIME.BDGIM   |
+| 谭雅战记 / 幼女战记  |    ANIME.YS    |
+|       OVERLORD       | ANIME.OVERLORD |
+|      狼与香辛料      |   ANIME.SAW    |
+|      斩赤红之瞳      |   ANIME.AGK    |
+|       罪恶王冠       |    ANIME.GC    |
+|       来自深渊       |   ANIME.MIA    |
+|       死亡笔记       |    ANIME.DN    |
+|       无职转生       |  ANIME.MTIIHD  |
+|        缘之空        |   ANIME.YNS    |
+
+## Comics
+
+| ComicsName |  Keyword   |
+| :--------: | :--------: |
+| 斩赤红之瞳 | COMICS.AGK |
+
+## Games
+
+|                GamesName                |  Keyword   |
+| :-------------------------------------: | :--------: |
+|                沙耶之歌                 | GAMES.TSOS |
+| 末世孤雄 / 丧尸横行的世界只有我不被袭击 | GAMES.IWAZ |
+
