@@ -40,14 +40,6 @@ jobs:
             - name: Build
               run: hugo --minify --gc
 
-            - name: Deploy 🚀
-              uses: JamesIves/github-pages-deploy-action@v4
-              with:
-                  branch: gh-pages
-                  folder: public
-                  clean: true
-                  single-commit: true
-
     # Deploy job
     deploy:
         # Add a dependency to the build job
@@ -66,6 +58,10 @@ jobs:
         # Specify runner + deployment step
         runs-on: ubuntu-latest
         steps:
-            - name: Deploy to GitHub Pages
-              id: deployment
-              uses: actions/deploy-pages@v2 # or the latest "vX.X.X" version tag for this action
+            - name: Deploy 🚀
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                  branch: gh-pages
+                  folder: public
+                  clean: true
+                  single-commit: true
