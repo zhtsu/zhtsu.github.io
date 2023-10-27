@@ -1,2 +1,2 @@
 # zhtsu.github.io
-zhtsu's homepage
+zhtsu's blog
