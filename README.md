@@ -1,2 +1,1 @@
-# zhtsu.github.io
-zhtsu's blog
+zhtsu's homepage
